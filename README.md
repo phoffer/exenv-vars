@@ -4,7 +4,7 @@ This is a plugin for [exenv](https://github.com/mururu/exenv)
 that lets you set global and project-specific environment variables
 before spawning Ruby processes.
 
-This is a port of the rbenv-vars plugin for rbenv.
+This is a port of the [rbenv-vars](https://github.com/rbenv/rbenv-vars) plugin for rbenv.
 
 ## Installation
 
@@ -55,4 +55,4 @@ order they'll be set.
 &copy; 2019 Paul Hoffer. Released under the MIT license. See
 `LICENSE` for details.
 
-Special thanks to Sam Stephenson for creating the original rbenv-vars
+Special thanks to [Sam Stephenson](https://github.com/sstephenson) for creating the original [rbenv-vars](https://github.com/rbenv/rbenv-vars) project
